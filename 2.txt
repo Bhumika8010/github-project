@@ -1,0 +1,1 @@
+And this is second file for git project 
